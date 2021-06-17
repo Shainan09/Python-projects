@@ -1,0 +1,25 @@
+id,senior_mgmt,department,gender
+0,TRUE,Marketing,Male
+1,TRUE,Marketing,Male
+2,FALSE,Finance,Male
+3,TRUE,Finance,Male
+4,TRUE,Client Services,Female
+5,FALSE,Legal,Female
+6,TRUE,Product,Male
+7,TRUE,Finance,Female
+8,TRUE,Engineering,Female
+9,TRUE,Business Development,Female
+10,TRUE,Human Resources,Female
+11,TRUE,Legal,Male
+12,TRUE,Human Resources,Female
+13,FALSE,Sales,Female
+14,TRUE,Finance,Female
+15,FALSE,Product,Male
+16,FALSE,Human Resources,Male
+17,FALSE,Product,Female
+18,FALSE,Client Services,Male
+19,FALSE,Product,Female
+20,TRUE,Legal,Female
+21,FALSE,Marketing,Male
+22,TRUE,Client Services,Male
+23,FALSE,Client Services,Female
